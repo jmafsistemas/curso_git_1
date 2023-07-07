@@ -2,3 +2,11 @@ h1{
     color: blue;
 }
 
+.p_home {
+    font-size: 20px;
+}
+
+.p_modal {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
